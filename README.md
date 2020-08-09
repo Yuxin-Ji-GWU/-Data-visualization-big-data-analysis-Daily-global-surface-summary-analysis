@@ -1,5 +1,4 @@
 # Project-Group-2
-Group Member: Ansheng Huang, Hao Ni, Yue Zheng, Ziwei Yang
 
 ## Overview
 The dataset we used is about daily global surface summary from over 9000 weather stations from 1929 to now.
